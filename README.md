@@ -5,4 +5,4 @@ The Smart Samaan’s Single-Phase Energy Measurement Development Board is a powe
 •	Dedicated UART pins for communication with the PC via USB serial port.
 •	I2C port for serial interfacing of OLED displays (e.g., 0.96" or 1.3" OLED display or similar such as I2C-based character LCDs)
 •	Additional I/O pins for ADC and other purposes
-
+This repository contains the demo C code based on IAR embedded Workbench for the Single-Phase Energy Measurement Development Board.
